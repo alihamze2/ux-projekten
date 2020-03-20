@@ -1,0 +1,30 @@
+[
+    
+    {
+        "Question": "When is deadline for applying for a top up program? ", 
+        "Answer": "The deadline is July 1 at 12.00 midday for summer start and December 1 at 12.00 midday for winter start. You apply via the application form on our website."
+    },
+        {
+        "Question": "What happens if I do not pass my 3rd exam attempt? ", 
+        "Answer": "According to the rules you cannot continue the programme and you will be signed out of the programme. If there have been special circumstances regarding your failed attempts, you can apply for an exemption to a 4 attempt. Look for further information on StudyUpdate regarding exam rules."
+    },
+        {
+        "Question": "What kind of documents do I have to upload to apply for a top up? ", 
+        "Answer": "You just upload the diploma from your AP degree along with the application form – that’s it!"
+    },
+     
+        {
+            "Question":"I feel that I am falling behind – do you have suggestions in terms of alternative study techniques? ",
+            "Answer":"I will be happy to talk to you about your difficulties. "
+        },
+            
+        {
+            "Question":"I have personal/health issues that prevents me from studying full time. What are my options? ",
+            "Answer": "If you are ill (long term – not just a flu) you can go on sick leave and continue the programme when you are feeling better. You must contact your doctor to get documentation and send to the secretary of the programme. If you are having personal problems (not illness) you are more than welcome to book a meeting with me to talk about your situation and your possibilities."
+        },
+            {
+            "Question":"Can I get feedback on my CV / cover letter?",
+            "Answer":"Yes, you can. Just let me know, when you want to meet and send me your CV /application letter and I will give you some feedback."
+        }
+
+]
