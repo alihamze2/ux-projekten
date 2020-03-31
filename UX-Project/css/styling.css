@@ -1,3 +1,11 @@
+* {
+    font-family: sans-serif;
+}
+
+html {
+    background-color: #F3F4F7;
+}
+
 #prevBtn {
     z-index: 10;
     font-size: 50px;
@@ -6,6 +14,8 @@
     cursor: pointer;
     position: relative;
 }
+
+
 
 
 #navn {
@@ -63,13 +73,16 @@
     max-width: 100%;
     padding-top: 10%;
     background-repeat: no-repeat;
+    float: none;
+    
+    
 
 }
 .boks1 {
   background-color: skyblue;
   width: 200px;
   border: 15px solid white;
-  padding: 100px;
+  padding: 150px;
 float: left;
     font-size: 1.5em;
     text-decoration: none;
@@ -93,7 +106,7 @@ float: left;
 }
 .booktidknap {
     background: none;
-    background-color: grey;
+    background-color: black;
     padding: 15px 25px;
     font-size: 25px;
     cursor: pointer;
@@ -109,6 +122,7 @@ float: left;
 
 .faqlist {
     font-weight: bold;
+    font-family: cursive;
     opacity: 0.8;
   
 }
@@ -116,3 +130,26 @@ float: left;
 .faqlist2 {
 opacity: 0.8;  
 }
+
+
+ {
+    font-family: sans-serif, open-sans;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.flex2 {
+    display: flex;
+    justify-content: space-around;
+    
+       
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
